@@ -31,3 +31,9 @@ This project involves implementing a simple dictionary-based compression and dec
     * The user provides the path to the file to be decompressed.
     * The program checks for codes not present in the dictionary and handles errors.
     * It decompresses the file and saves the result in an uncompressed file.
+
+
+
+
+
+<img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-1/assets/99613493/1b623321-80bb-4940-b9ef-241140b75f41" width="200">
