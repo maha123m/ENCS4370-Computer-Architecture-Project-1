@@ -33,7 +33,7 @@ This project involves implementing a simple dictionary-based compression and dec
     * It decompresses the file and saves the result in an uncompressed file.
 
 ## Summary
-This project aims to create a dictionary-based compression and decompression tool in MIPS assembly language, offering users the ability to compress and decompress text files while maintaining a dictionary of words and their corresponding binary codes.
+This project aims to create a dictionary-based compression and decompression tool in MIPS assembly language, offering users the ability to compress and decompress text files while maintaining a dictionary of words and their corresponding binary codes.  
 
 ## Result 
 
