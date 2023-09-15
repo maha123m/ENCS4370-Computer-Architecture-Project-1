@@ -36,6 +36,6 @@ This project involves implementing a simple dictionary-based compression and dec
 ## Result 
 
 <div>
-  <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-1/assets/99613493/1b623321-80bb-4940-b9ef-241140b75f41" width="300" height="400"> 
+  <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-1/assets/99613493/1b623321-80bb-4940-b9ef-241140b75f41" width="900" height="400"> 
 </div>
 
