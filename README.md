@@ -26,7 +26,7 @@ This project involves implementing a simple dictionary-based compression and dec
    * The compressed data is saved in a compressed file.
    * Changes to the dictionary are saved.
       
-5)In decompression:
+5) In decompression:
     * The user provides the path to the file to be decompressed.
     * The program checks for codes not present in the dictionary and handles errors.
     * It decompresses the file and saves the result in an uncompressed file.
