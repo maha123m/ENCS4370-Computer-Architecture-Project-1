@@ -1,4 +1,5 @@
 # ENCS4370-Computer-Architecture
+## Project Description
 This project involves implementing a simple dictionary-based compression and decompression tool in MIPS assembly language using the MARS simulator. The tool uses a 16-bit code to substitute for words in an uncompressed text file. Here are the key details:
 
 1) Dictionary-based Compression:
