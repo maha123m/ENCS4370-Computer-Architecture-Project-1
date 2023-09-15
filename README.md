@@ -35,5 +35,7 @@ This project involves implementing a simple dictionary-based compression and dec
 
 
 
+<div>
+  <img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-1/assets/99613493/1b623321-80bb-4940-b9ef-241140b75f41" width="200"> 
+</div>
 
-<img src ="https://github.com/maha123m/ENCS4370-Computer-Architecture-Project-1/assets/99613493/1b623321-80bb-4940-b9ef-241140b75f41" width="200">
